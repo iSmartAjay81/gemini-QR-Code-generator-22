@@ -1,0 +1,6 @@
+{
+  "name": "LumiQR - Animated Offline QR Studio & Payment Generator",
+  "description": "An interactive, animated offline QR code generator featuring an interactive pull-cord lamp toggle, dynamic UPI payment and bank transfer QR generation, customizable merchant standees, sound effects, and privacy-first client-side encoding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
